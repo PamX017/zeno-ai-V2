@@ -1,0 +1,15 @@
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Logs and user dictations
+voiceflow.log
+*.log
+
+# Installation and build artifacts
+.installed
+__pycache__/
+*.py[cod]
+.venv/
+venv/

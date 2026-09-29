@@ -1,0 +1,6 @@
+requests
+sounddevice
+numpy
+pynput
+pyperclip
+python-dotenv
